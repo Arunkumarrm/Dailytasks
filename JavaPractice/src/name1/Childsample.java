@@ -13,8 +13,7 @@ public class Childsample extends Inheritancesample {
     	c.hai();
     	Inheritancesample i =new Inheritancesample();
     	i.hello();
-    	
-    	//hhh
+    	i.hai();
     	
     }
 }
